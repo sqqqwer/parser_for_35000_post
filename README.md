@@ -1,4 +1,4 @@
-# parser_for_35000_post
+# Selenium parser for 35000 post
 Selenium parser on firefox webdriver.
 gecko version - v0.28.0 
 
