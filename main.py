@@ -1,7 +1,7 @@
 from selenium import webdriver
-from pathlib import Path
 import fake_useragent
 import pandas
+from pathlib import Path
 
 #путь к папке скрипта
 #path to script dir
