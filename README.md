@@ -2,3 +2,4 @@
 Selenium parser on firefox webdriver.
 gecko version - v0.28.0 
 
+site:https://zadolba.li/
